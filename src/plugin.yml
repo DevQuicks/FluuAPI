@@ -1,0 +1,9 @@
+name: FluuAPI
+author: DevQuicks
+version: 1.0
+
+
+main: me.DevQuicks.FluuAPI.main.Main
+
+
+commands:
